@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+ }
+ h2 {
+    -webkit-text-fill-color: rgba(125, 47, 47, 0.997);
+    font-family: fantasy;
+    font-size: large;
+ }
+
+ body {
+    background-image: url("https://i.pinimg.com/originals/cc/bf/95/ccbf95d437f831715765bd11c2b1fff6.gif");
+}
+ 
+

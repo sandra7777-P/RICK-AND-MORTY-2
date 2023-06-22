@@ -1,0 +1,21 @@
+.search {
+  margin: 8px;
+  padding: 8px;
+}
+.search button {
+  border: 1px solid rgb(201, 246, 157);
+  border-radius: 4px;
+  padding: 6px;
+  margin: 4px;
+  margin-right: 8px;
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+.search button:hover {
+  border: 1px solid rgb(148, 250, 101);
+  color: rgb(138, 21, 21);
+  background-color: rgb(220, 208, 192);
+}
+.search input{
+  margin-right: 8px;
+}
